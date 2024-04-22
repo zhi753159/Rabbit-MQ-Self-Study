@@ -1,0 +1,1 @@
+https://medium.com/@golang.learner.amazing/jumpstart-your-messaging-journey-setting-up-rabbitmq-locally-with-docker-compose-beginners-2923c88b6191
